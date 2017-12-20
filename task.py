@@ -1,3 +1,6 @@
+# Сделал Галкин Антон 2 курс ИВТ 
+
+
 import pprint
 import json
 filename = 'data.json'
